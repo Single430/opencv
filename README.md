@@ -28,3 +28,7 @@ You can [tweet me](https://twitter.com/iamarpandey) if you can't get it to work.
 Built with ♥ by Amar Prakash Pandey([@amarlearning](http://github.com/amarlearning)) under [MIT License](http://amarlearning.mit-license.org/) 
 
 You can find a copy of the License at http://amarlearning.mit-license.org/
+
+1（https://docs.opencv.org/master/dc/df6/tutorial_py_histogram_backprojection.html)
+2（https://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/back_projection/back_projection.html）
+
